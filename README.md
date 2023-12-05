@@ -18,6 +18,6 @@ Hello! 👋<br><br>    Computer Engineering Student: Pursuing my bachelor's degr
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=kiddingmz&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<img src="https://raw.githubusercontent.com/kiddingmz/kiddingmz/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/kiddingmz/kiddingmz/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
